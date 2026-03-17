@@ -1,0 +1,7 @@
+build/
+*.pdsbak
+*.hex
+*.obj
+*.d
+*.pre
+compile_commands.json
