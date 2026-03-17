@@ -21,6 +21,9 @@ Quando solta, o LED apaga.
 - LED no pino RD0
 - Botão no pino RD1
 
+  <img width="1322" height="765" alt="image" src="https://github.com/user-attachments/assets/98d44087-f3ba-48b9-8fc6-852f0e3d3f67" />
+
+
 ## O que aprendi nesse projeto
 
 **PORT vs LAT** — no PIC18 existe uma diferença importante:
