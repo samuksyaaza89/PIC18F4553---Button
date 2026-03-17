@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/smks/Documents/Embedded/PIC/PIC18F4553",
+    "command": "clang -D_XTAL_FREQ=48000000UL -DPIC18F4553 -I.",
+    "file": "main.c"
+  }
+]
